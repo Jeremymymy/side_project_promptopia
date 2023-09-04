@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+You can go to <https://side-project-promptopia.vercel.app/> to visit this application.
+
 ## Getting Started
 
 First, run the development server:
